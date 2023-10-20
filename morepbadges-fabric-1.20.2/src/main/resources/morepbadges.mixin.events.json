@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "io.github.thecsdev.morepbadges.mixin.events",
+	"compatibilityLevel": "JAVA_17",
+	"mixins":
+	[
+		"MixinStats",
+		"MixinFireworkRocketEntity"
+	],
+	"injectors": { "defaultRequire": 1 }
+}

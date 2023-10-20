@@ -1,0 +1,37 @@
+{
+	"morepbadges": "More player badges",
+	
+	"stat.morepbadges.chat_messages_sent": "MPB: Chat messages sent",
+	"stat.morepbadges.items_shared": "MPB: Items shared",
+	"stat.morepbadges.loot_containers_opened": "MPB: Loot containers opened",
+	
+	"morepbadges.api.client.registry.mclientplayerbadges.chat_artisan.title": "Chat artisan",
+	"morepbadges.api.client.registry.mclientplayerbadges.chat_artisan.description": "In the world of whispers and shouts, you've made your voice heard. The chat is your canvas, and you've painted it with your words.",
+	"morepbadges.api.client.registry.mclientplayerbadges.redstone_wizard.title": "Redstone wizard",
+	"morepbadges.api.client.registry.mclientplayerbadges.redstone_wizard.description": "You've harnessed the magic of redstone to craft intricate contraptions that bewilder and amaze.",
+	"morepbadges.api.client.registry.mclientplayerbadges.realm_architect.title": "Architect of the Realm",
+	"morepbadges.api.client.registry.mclientplayerbadges.realm_architect.description": "You have left your mark on this world, one building at a time. Your architectural prowess shines through as you've crafted numerous structures that dot the landscape, each telling a unique story of your creativity and dedication.",
+	"morepbadges.api.client.registry.mclientplayerbadges.collaborative_synergy.title": "Collaborative synergy",
+	"morepbadges.api.client.registry.mclientplayerbadges.collaborative_synergy.description": "Your footsteps have left an indelible mark on this world, where players and mobs have joined hands in the dance of collaboration, creating shared experiences that leave an enduring legacy.",
+	"morepbadges.api.client.registry.mclientplayerbadges.lorekeeper.title": "Lorekeeper",
+	"morepbadges.api.client.registry.mclientplayerbadges.lorekeeper.description": "As a Lorekeeper, you've woven the threads of this world's history into the written word, leaving a trail of tales that forever soar.",
+	"morepbadges.api.client.registry.mclientplayerbadges.well_organized.title": "Well organized",
+	"morepbadges.api.client.registry.mclientplayerbadges.well_organized.description": "Each container tells a story, and you've become a connoisseur of storage, from traditional chests to the enigmatic Shulker Boxes, each with its own tale to tell.",
+	"morepbadges.api.client.registry.mclientplayerbadges.nature_steward.title": "Nature steward",
+	"morepbadges.api.client.registry.mclientplayerbadges.nature_steward.description": "You've become a guardian of the land, where every seed planted is a promise of life. Your actions breathe vitality into our world, nurturing the very essence of nature itself.",
+	"morepbadges.api.client.registry.mclientplayerbadges.mystic_forger.title": "Mystic forger",
+	"morepbadges.api.client.registry.mclientplayerbadges.mystic_forger.description": "In the quiet whispers of the mystical, you've uncovered the secrets that lay within enchanted books and harnessed their power to forge a new destiny.",
+	
+	"morepbadges.api.registry.mplayerbadges.celestial_voyager.title": "Celestial voyager",
+	"morepbadges.api.registry.mplayerbadges.celestial_voyager.description": "You've reached for the stars and ventured into the stratosphere, where few have dared to tread. Your journey into the cosmic heights has made you a true Celestial Voyager, exploring the skies beyond the clouds.",
+	"morepbadges.api.registry.mplayerbadges.fate_alchemist.title": "Fate alchemist",
+	"morepbadges.api.registry.mplayerbadges.fate_alchemist.description": "In the direst moments, you've played the role of an alchemist of fate, using potions to challenge destiny and safeguard those on the brink.",
+	"morepbadges.api.registry.mplayerbadges.highly_experienced.title": "Highly experienced",
+	"morepbadges.api.registry.mplayerbadges.highly_experienced.description": "Your journey through this realm has been nothing short of remarkable, as your experience rivals that of the binary elite. You've reached a level of knowledge that's truly byte-sized, and your insights have become legendary.",
+	"morepbadges.api.registry.mplayerbadges.beacon_master.title": "Beacon master",
+	"morepbadges.api.registry.mplayerbadges.beacon_master.description": "*Something something*, 'Weird flex but okay'.",
+	"morepbadges.api.registry.mplayerbadges.happy_new_year.title": "Happy new year!",
+	"morepbadges.api.registry.mplayerbadges.happy_new_year.description": "Your participation in the New Year's eve brought sparkly light and color to the skies, illuminating the world above and casting a vibrant tapestry of celebration upon the ground below.",
+	"morepbadges.api.registry.mplayerbadges.loot_hunter.title": "Loot hunter",
+	"morepbadges.api.registry.mplayerbadges.loot_hunter.description": "You've embarked on a journey of discovery, unlocking the mysteries and treasures held within the chests that dot your adventurous path."
+}
