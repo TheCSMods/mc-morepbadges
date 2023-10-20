@@ -31,7 +31,7 @@ An image showing what v1.0 of the mod looks like.
 An image showing what the "Loot hunter" badge looks like in v1.0.
 ![2023-10-20_12 06 59](https://github.com/TheCSMods/demo-repository/assets/66475965/614165f9-eb20-4b68-926a-d44164a4a779)
 
-An image showing what the "Loot hunter" badge looks like in v1.0.
+An image showing what the "Collaborative synergy" badge looks like in v1.0.
 ![2023-10-20_12 07 15](https://github.com/TheCSMods/demo-repository/assets/66475965/1f47abb3-cc8a-4be0-80db-4a8a6578c77a)
 
 ### Feedback and suggestions
